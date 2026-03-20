@@ -24,7 +24,7 @@
 <summary><h3 align="left"><u>🔧 Tech Stack:</u></h3></summary>
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,mysql,html,css,kotlin,androidstudio,pycharm,idea,vscode,eclipse,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,html,css,tailwind,react,git)](https://skillicons.dev)
 
 --------------
 
