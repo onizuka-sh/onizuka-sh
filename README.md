@@ -6,7 +6,7 @@
 
 <summary><h3 align="left"><b>🚧 In Progress Projects:</b></h3><br/></summary>
 
-~ [IBM Final Project with Flask - Emotion Detector](https://github.com/Gaurav-K-Github/oaqjp-final-project-emb-ai)  
+~ [StreamPlex - LAN based media server]()  
 
 ---------
 
