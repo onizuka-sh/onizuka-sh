@@ -38,16 +38,3 @@
 
 
 -----------
-<summary><h3 align="left">&#128240<b> Connect with me:</b></h3></summary><br/>
-
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/gaurav-kumar-a9a47b2b7" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Linkedin" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/31151793/gaurav-kumar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="StackOverflow" height="40" width="50" /></a>
-<a href="https://dev.to/gaurav_kumar_61584c2745c8" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="www.linkedin.com/in/DevTo" height="40" width="50" /></a>
-<a href="https://codepen.io/gaurav_kumar_pandey" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" alt="Codepen" height="40" width="45" /></a>
-<a href="https://www.leetcode.com/gaurav_k_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cxHHFAUH" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="40" width="45" /></a>
-
-
-
---------------
