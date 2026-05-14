@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=800&size=30&duration=4000&pause=1000&color=40b835&center=true&vCenter=true&width=800&lines=Hello!+there+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
-<h3 align="center"><u>Learner. Coder. Contributor.</u></h3><br>
+<h3 align="center"><u>Learn. Code. Contribute.</u></h3><br>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300">
+<img align="right" src="https://github.com/onizuka-sh/onizuka-sh/blob/1cf21e284ce321ac8863b144c3445dcee311c498/Fedora_logo.svg.png" width="300">
 <br>
 
 <summary><h3 align="left"><b>🚧 In Progress Projects:</b></h3><br/></summary>
